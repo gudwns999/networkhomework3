@@ -1,0 +1,20 @@
+﻿  SPA.c
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(428): warning C4101: 'msg4' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(425): warning C4101: 'testAddrSize' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(444): warning C4101: 'end' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(419): warning C4101: 'edgearray' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(418): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(438): warning C4101: 'servSock' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(444): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(440): warning C4101: 'sock' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(418): warning C4101: 'bytes' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(431): warning C4101: 'servAddr' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(420): warning C4101: 'filename' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(417): warning C4101: 'fh2' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(418): warning C4101: 'costarray' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(417): warning C4101: 'fh1' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(419): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(420): warning C4101: 'buffer' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(418): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+c:\users\kim\desktop\networkhomework3\networkhomework3\spa.c(416): warning C4101: 'fileID' :참조되지 않은 지역 변수입니다.
+  networkhomework3.vcxproj -> C:\Users\Kim\Desktop\networkhomework3\Debug\networkhomework3.exe
